@@ -1,7 +1,11 @@
 package usaco;
 
 public class template {
-	
-	//Welcome to USACO
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
 	
 }
